@@ -1,8 +1,8 @@
 {
-  "name": "greeter-bot",
+  "name": "Welcome",
   "version": "1.0.0",
-  "description": "My own Discord bot",
+  "description": "ggr",
   "main": "bot.js",
-  "author": "YOUR-NAME-HERE",
+  "author": "greensunset",
   "dependencies": {}
 }
